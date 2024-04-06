@@ -8,7 +8,7 @@
 
 #### **Declaration of Confidentiality**
 
-This manuscript is provided on a confidential basis and is the property of Jesús Fuentes. The recipient acknowledges that this manuscript is confidential and promises not to disclose, copy, or distribute any part of this manuscript without the express written permission of the author(s).
+This manuscript is provided on a confidential basis and is the property of Jesús Fuentes. The recipient acknowledges that this manuscript is confidential and promises not to disclose, copy, or distribute any part of this manuscript without the express written permission of the author.
 
 #### **Purpose of Sharing**
 
