@@ -1,7 +1,5 @@
 # Confidentiality Notice for the LION Project Manuscript
 
-## Project Title: LION Project (machine Learning with ION traps)
-
 ### **IMPORTANT**: This document and the information contained herein is strictly confidential and intended solely for the individual(s) or entity to whom it is addressed. 
 
 #### Date: April 6, 2024
