@@ -1,35 +1,15 @@
-# Confidentiality Notice for the LION Project Manuscript
+# Quantum Machine Learning With Canonical Variables
 
-### **IMPORTANT**: This document and the information contained herein is strictly confidential and intended solely for the individual(s) or entity to whom it is addressed. 
-
-#### Date: April 6, 2024
+### **Abstract**
 
 ---
 
-#### **Declaration of Confidentiality**
+Utilising dynamic electromagnetic field control over charged particles serves as the basis for a quantum machine learning platform that operates on observables rather than directly on states. Such a platform can be physically realised in ion traps or particle confinement devices that utilise electromagnetic fields as the source of control. The electromagnetic field acts as the ansatz within the learning algorithm. The models discussed are exactly solvable, with exact solutions serving as precursors for learning tasks to emerge, including regression and classification algorithms as particular cases. This approach is considered in terms of canonical variables with semi-classical behaviour, disregarding relativistic degrees of freedom.
 
-This manuscript is provided on a confidential basis and is the property of Jesús Fuentes. The recipient acknowledges that this manuscript is confidential and promises not to disclose, copy, or distribute any part of this manuscript without the express written permission of the author.
-
-#### **Purpose of Sharing**
-
-The purpose of sharing this manuscript is to seek grant application reviews within the bounds of confidentiality as stated herein.
+[arXiv:2406.06666](https://arxiv.org/abs/2406.06666)
 
 #### **Contact Information**
-
-For inquiries or permission to disclose any part of this manuscript, please contact:
 
 Jesús Fuentes  
 LCSB, University of Luxembourg  
 jesus.fuentes (at) uni.lu
-
-#### **Acknowledgment of Confidentiality**
-
-By accessing this manuscript, you acknowledge your understanding and agreement to the terms of confidentiality outlined above.
-
----
-
-This notice is intended to protect the intellectual property and proprietary information related to the LION Project. Your cooperation and respect for the confidentiality of this work are greatly appreciated.
-
----
-
-#### **END OF NOTICE**
